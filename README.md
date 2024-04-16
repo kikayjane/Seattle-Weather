@@ -5,7 +5,7 @@ The purpose of this project is to convince Dr. Egan's parents to visit him in Se
 
 The methodology encompassed data cleaning, categorization of rainfall intensity, and statistical analysis to compare average monthly precipitation, the frequency of rain levels (light to no rain, moderate, heavy), and total annual precipitation across both cities.
 
-Our analysis revealed that Seattle generally experiences a higher frequency of rainy days, particularly moderate to heavy rain during fall and winter. Contrary to expectations, New York City accumulated a greater total annual precipitation, suggesting heavier downpours occur despite fewer rainy days. These findings suggest that while SEA has more consistent rain, New York City's precipitation is more variable, with instances of intense rainfall contributing to its higher annual totals.
+Our analysis revealed that Seattle generally experiences a higher frequency of rainy days, particularly moderate to heavy rain during fall and winter. Contrary to expectations, New York City accumulated a greater total annual precipitation, suggesting heavier downpours occur despite fewer rainy days. These findings suggest that while Seattle has more consistent rain, New York City's precipitation is more variable, with instances of intense rainfall contributing to its higher annual totals.
 
 ## Requirements
 *  Colab
