@@ -1,7 +1,7 @@
 # Weather Repository
 
 ## Description
-The purpose of this project is to convince Dr. Egan's parents to visit him in Seattle by investigating whether it rains more in NYC or Seattle. The goal is to inform travel plans based on the likelihood of encountering rain. Utilizing NOAA's environmental data, we analyzed daily precipitation records from January 2020 to January 2024.
+The purpose of this project is to convince Dr. Egan's parents to visit him in Seattle by investigating whether it rains more in NYC or Seattle. The goal is to inform travel plans based on the likelihood of encountering rain. Utilizing NOAA's environmental data, we analyzed daily precipitation records from January 2020 to December 2023.
 
 The methodology encompassed data cleaning, categorization of rainfall intensity, and statistical analysis to compare average monthly precipitation, the frequency of rain levels (light to no rain, moderate, heavy), and total annual precipitation across both cities.
 
