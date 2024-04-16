@@ -1,5 +1,14 @@
 # Weather Repository
-The purpose of this project is to convince Dr. Egan's parents to visit him in Seattle by investigating whether it rains more in NYC or Seattle.
+
+## Description
+The purpose of this project is to convince Dr. Egan's parents to visit him in Seattle by investigating whether it rains more in NYC or Seattle. The goal is to inform travel plans based on the likelihood of encountering rain. Utilizing NOAA's environmental data, we analyzed daily precipitation records from January 2020 to January 2024.
+
+The methodology encompassed data cleaning, categorization of rainfall intensity, and statistical analysis to compare average monthly precipitation, the frequency of rain levels (light to no rain, moderate, heavy), and total annual precipitation across both cities.
+
+Our analysis revealed that SEA generally experiences a higher frequency of rainy days, particularly moderate to heavy rain during fall and winter. Contrary to expectations, NYC accumulated a greater total annual precipitation, suggesting heavier downpours occur despite fewer rainy days. These findings suggest that while SEA has more consistent rain, NYC's precipitation is more variable, with instances of intense rainfall contributing to its higher annual totals.
+
+## Requirements
+*  Colab
 
 ## Data
 The datasets are from NOAA National Centers for Environmental Information that includes records of daily percipitation from Seattle and New York City for the 3 year period January 2020 - January 2024.
@@ -26,3 +35,8 @@ To create the visualizations for analysis, the following steps were taken:
   4. Finalize the chosen visualizations to produce conclusions
 
 The file "seattle_nyc_analysis.ipynb" contains the coding that performs the visualization analysis, also linked in the repository.
+
+## Authors
+Rica Bayani-Dahilig (me)
+
+## License
