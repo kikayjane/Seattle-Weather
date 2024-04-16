@@ -17,3 +17,12 @@ To prepare the data for visualization, the following steps were taken:
   9. Rename columns and values
 
 The file "data_preparation.ipynb" contains the coding that performs the data preparation, and the results can be found in the "clean_seattle_nyc_weather.csv" file, both linked in the repository.
+
+## Analysis
+To create the visualizations for analysis, the following steps were taken:
+  1. Load the clean data and review its contents
+  2. State specific questions about the data that can be answered with the visualizations
+  3. Perform various analyses utilizing different types of graphs
+  4. Finalize the chosen visualizations to produce conclusions
+
+The file "seattle_nyc_analysis.ipynb" contains the coding that performs the visualization analysis, also linked in the repository.
